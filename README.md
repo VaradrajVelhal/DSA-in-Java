@@ -1,24 +1,23 @@
-# 🚀 Data Structures and Algorithms in Java
+# ☕ Data Structures and Algorithms in Java
 
-This repository contains my solutions to various DSA problems from LeetCode, GeeksforGeeks, and other platforms, implemented in Java.
+This repository contains my solutions to various Data Structures and Algorithms (DSA) problems. The code is implemented in **Java** and covers topics essential for technical interviews and competitive programming.
 
-## 📂 Topics Covered
-- [x] Arrays
-- [ ] Strings
-- [ ] Linked Lists
-- [ ] Stacks & Queues
-- [ ] Trees & Graphs
-- [ ] Sorting & Searching (Bubble, Merge, Quick, etc.)
+## 📂 Repository Structure
+The code is organized by topic to make it easy to navigate:
 
-## 🏆 Problem Log
+- **Arrays & Strings**
+- **Linked Lists**
+- **Stacks & Queues**
+- **Trees & Graphs**
+- **Recursion & Backtracking**
+- **Sorting & Searching Algorithms**
+- **Dynamic Programming**
 
-| Problem Name | Platform | Difficulty | Concept Used |
-| :--- | :--- | :--- | :--- |
-| [Two Sum](./link-to-file.java) | LeetCode | Easy | HashMap |
-| [Reverse Linked List](./link-to-file.java) | LeetCode | Easy | Pointers |
-| [Valid Parentheses](./link-to-file.java) | LeetCode | Medium | Stack |
+## 🛠️ Built With
+- **Language:** Java (JDK 8+)
+- **Platforms:** LeetCode, GeeksforGeeks, HackerRank
 
-## 🛠️ How to Run
-1. Clone the repo: `git clone https://github.com/VaradrajVelhal/DSA-in-Java.git`
-2. Open in your favorite IDE (VS Code / IntelliJ).
-3. Run the individual Java files.
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/VaradrajVelhal/DSA-in-Java.git](https://github.com/VaradrajVelhal/DSA-in-Java.git)
