@@ -13,5 +13,6 @@ public class Rec1 {
 
     public static void main(String[] args) {
         nums(0);
+        // nu
     }
 }
